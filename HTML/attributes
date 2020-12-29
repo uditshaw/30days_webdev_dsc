@@ -1,0 +1,9 @@
+4 most attributes that can be used on most html elements:-
+
+id <p id="html">This is a para</p>
+title <h3 title="Hello html!"> Titled heading tag example</h3>
+class <div class="city">
+            <h2>London</h2>
+            <p>London is capital of England </p>
+        </div>
+style <p style="font-family:arial: color: red;">Some text in red...</p>
